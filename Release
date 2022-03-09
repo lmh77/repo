@@ -1,8 +1,8 @@
-Origin: lmh77 Repo
-Label: lmh77 Repo
+Origin: lmh77 BackuRepo
+Label: lmh77 BackuRepo
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: lmh77's Repo
+Description: lmh77's BackuRepo
