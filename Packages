@@ -13,6 +13,287 @@ Section: Tweaks
 Description: iOSGods内购破解，并不支持所有应用，支持A12A13
 Name: iOSGods内购破解
 
+Package: apt.cydiakk.timfch
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Cydiakk中文源™ <admin@cydiakk.com>
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/apt.cydiakk.timfch_1.0.0_iphoneos-arm.deb
+Size: 14784
+MD5sum: c00cf677b1d51b35a595b5e8b563ed11
+SHA1: 73bdc082bf99178c276dd388d4f4f1eb9a1c48f9
+SHA256: a52465a79480b5d7a941a859a1f1bfcd98e6ed54438cadd179449178c8760f1e
+Section: 插件
+Priority: optional
+Description: TIM防撤回提示
+Author: TouGBao
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: Tim带提示防撤回
+Sponsor: Cydiakk中文源™ <http://apt.cydiakk.com/>
+
+Package: cn.yttxcs.appdatamanager
+Version: 1.6.1-10k
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子 <409774743@qq.com>
+Installed-Size: 13825
+Depends: firmware (>= 7.0), mobilesubstrate
+Filename: ./debs/cn.yttxcs.appdatamanager_1.6.1-10k_iphoneos-arm.deb
+Size: 2513756
+MD5sum: 522f123b14bb1ef8824a1cf627a9d7b2
+SHA1: f27b4fafbddb66790c1f3a210817eb4dcb1583ad
+SHA256: 786dc84ba5b2111326544be1cd3733b1cf10c2a6c001eb2e314338b16a9bcb9f
+Section: 插件
+Description: 应用数据 备份/恢复/迁移 管理
+Author: TIGI Software
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: AppsManager 「应用数据管理破解」
+Sponsor: 幺筒源<409774743@qq.com>
+
+Package: cn.yttxcs.appstoreplusplus
+Version: 0.9.17-5
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子<409774743@qq.com>
+Depends: firmware (>= 11.0), mobilesubstrate
+Conflicts: com.unlimapps.uaupdatetools,cn.yttxcs.appstorepluspluszh
+Filename: ./debs/cn.yttxcs.appstoreplusplus_0.9.17-5_iphoneos-arm.deb
+Size: 2035174
+MD5sum: b7826c458615c69a15b54c7c4789eb72
+SHA1: 601605c0b4e9b52c6ee945b1b99c9f5c951b6daa
+SHA256: 34de71d94dade77d6406fcf10dab7eed4ab14af8724f5f0f96139d84990305f6
+Section: 插件
+Description: 降级appstore的软件
+Author: CokePokes
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: AppStore++「应用降级」
+Sponsor: 幺筒源<409774743@qq.com>
+
+Package: cn.yttxcs.ccplus.cn
+Version: 1.7.1
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子 <409774743@qq.com>
+Installed-Size: 2372
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.opa334.ccsupport
+Conflicts: com.crak.wechatscan, netskao.wechatscan, com.hk.wechatscan, com.kingpuffdaddi.control-center.ccvpn, com.jailbreak365.safeccmodules, netskao.alipayscan, netskao.ccbadgeclear, netskao.ccpower, netskao.ccautobrightness, com.ichitaso.autobrightness11
+Filename: ./debs/cn.yttxcs.ccplus.cn_1.7.1_iphoneos-arm.deb
+Size: 187058
+MD5sum: 9cf7d95d4ef5420b2f78ed65645df26a
+SHA1: da80c7bdd493b783100be4a68147a43ad9a65139
+SHA256: ea5b17a8dc025c93b04cd1b04e17d74aae779f06ffc89cc7de4fbcd2830539a0
+Section: 控制中心
+Description: 精简CCModules，并汉化CC模块名，不与原CCModules插件兼容，整合Netskao的几个工具。
+Author: 妖刀
+Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
+Name: CC++「控制中心增强」
+Sponsor: 幺筒源<409774743@qq.com>
+
+Package: cn.yttxcs.disableautomationnotice
+Version: 1.1-5
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子 <409774743@qq.com>
+Depends: mobilesubstrate
+Conflicts: netskao.disableshortcutsnotification
+Filename: ./debs/cn.yttxcs.disableautomationnotice_1.1-5_iphoneos-arm.deb
+Size: 6390
+MD5sum: d2a434d9aa5ee478d9d974cc9cbda8c0
+SHA1: e632b0fb242a08673a30cabac4722c630dcdf21f
+SHA256: 9c895df3a5afa8b24ed0314714da83f205e8e72be69e151e514c707eadde819e
+Section: 插件
+Description: 禁用快捷指令自动化自动执行后的通知
+Author: Netskao
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: DisableAutomationNotice 「禁用通知」
+Sponsor: 幺筒源<409774743@qq.com>
+
+Package: cn.yttxcs.filza.pj
+Version: 3.9.0-2
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子<409774743@qq.com>
+Installed-Size: 21860
+Depends: zip, unzip, gzip, unrar, p7zip
+Conflicts: com.tigisoftware.filza,cn.yttxcs.filzacrack
+Filename: ./debs/cn.yttxcs.filza.pj_3.9.0-2_iphoneos-arm.deb
+Size: 12638784
+MD5sum: 3d78786137d35a61cf318420f71148e8
+SHA1: 08d976800437d889f8b84bff905b38e881f61876
+SHA256: f1115fcdd871c76eec5c1c9bc8e87e359d7dc5949148eaea597215387516b006
+Section: 工具
+Description: 文件管理器破解版
+Tag: cydia::commercial
+Author: TIGI Software
+Icon: file:///Applications/Cydia.app/Sections/Utilities.png
+Name: Filza File Manager「破解版」
+Sponsor: 幺筒源<409774743@qq.com>
+
+Package: cn.yttxcs.flex3
+Version: 1:3~Beta98
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子 <409774743@qq.com>
+Installed-Size: 36320
+Depends: mobilesubstrate, firmware (>=12.2) | org.swift.libswift (>=5.0), firmware (>= 9.0),cn.yttxcs.flex3zh
+Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
+Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
+Filename: ./debs/cn.yttxcs.flex3_1%3a3~Beta98_iphoneos-arm.deb
+Size: 8768102
+MD5sum: 73d98a6cd265fb722c35040cc7153109
+SHA1: 3631fc87b4c72a3da28d2f9f865c79682aad3d22
+SHA256: cb7a8bf181afcff9c6c2d015ec2cc20f957d1c13cd21c553aae186998927618d
+Section: 程序
+Description: 强大的补丁平台
+Author: John Coates <409774743@qq.com>
+Icon: file:///Applications/Cydia.app/Sections/Packaging.png
+Name: Flex 3 Beta「强大的补丁平台」
+Sponsor: 幺筒源<409774743@qq.com>
+
+Package: cn.yttxcs.goodwifi
+Version: 0.0~beta6
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子 <409774743@qq.com>
+Installed-Size: 1053
+Depends: mobilesubstrate, preferenceloader
+Conflicts: cn.yttxcs.goodwifizh
+Filename: ./debs/cn.yttxcs.goodwifi_0.0~beta6_iphoneos-arm.deb
+Size: 115952
+MD5sum: 6450363f6d37126738e91ca4ba368b7c
+SHA1: e68a7b5089407a08d06cd4127f918caf033feb1d
+SHA256: 7365c7433a85120320796d2662b206028095f27ad1d37852dd50ec0bdc3a15d3
+Section: 插件
+Description: 显示Wi-Fi的信息
+Author: julioverne <409774743@qq.com>
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: GoodWiFi「Wi-Fi信息」
+Sponsor: 幺筒源<409774743@qq.com>
+
+Package: cn.yttxcs.icleanerpro.pj
+Version: 7.9.1
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子 <409774743@qq.com>
+Installed-Size: 11350
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Filename: ./debs/cn.yttxcs.icleanerpro.pj_7.9.1_iphoneos-arm.deb
+Size: 2949152
+MD5sum: 9d0a161ed5e79457e2ecc8740e403c19
+SHA1: ffc8c1bda6efbe4a3dc2d7b2c91ce84e3f9e86b6
+SHA256: a5e0401ff1cd3006ed2cf75db2ec760980ac4595c42005fe48dc3c9d2e89810f
+Section: 工具
+Description: 一款系统清理工具,测试版!
+Author: Ivano Bilenchi   <409774743@qq.com>
+Icon: file:///Applications/Cydia.app/Sections/Utilities.png
+Name: iCleaner Pro「系统清理破解版」
+Sponsor: 幺筒源<409774743@qq.com>
+
+Package: cn.yttxcs.newterm2
+Version: 2.5
+Architecture: iphoneos-arm
+Maintainer: HASHBANG Productions  <409774743@qq.com>
+Installed-Size: 6828
+Depends: firmware (>= 10.0), firmware (>= 12.2) | org.swift.libswift, ws.hbang.common (>= 1.16), bash, coreutils, ncurses, system-cmds, gettext-localizations | com.linusyang.localeutf8
+Conflicts: ws.hbang.newterm, com.lint.ntarrows
+Replaces: ws.hbang.newterm, com.lint.ntarrows
+Filename: ./debs/cn.yttxcs.newterm2_2.5_iphoneos-arm.deb
+Size: 2022646
+MD5sum: e4bec81559133611dc50ed09edf890a0
+SHA1: 43e1de9e468c5108734c8ae7ff28ec7ea87e3402
+SHA256: 4646a47242728d07bfb06e8286ce7ffa57939cab8437cefa1ab4d6227f382ff2
+Section: 终端
+Description: 终端工具,ios11-ios14汉化版
+Author: HASHBANG Productions  <409774743@qq.com>
+Icon: file:///Applications/Cydia.app/Sections/Terminal_Support.png
+Name: NewTerm 2「IOS11-IOS14终端」
+Sponsor: 幺筒源<409774743@qq.com>
+
+Package: cn.yttxcs.renet
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子 <409774743@qq.com>
+Installed-Size: 8082
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/cn.yttxcs.renet_1.2_iphoneos-arm.deb
+Size: 2261116
+MD5sum: a0c5c4c6656306a0e919b044932eec78
+SHA1: 4872978cdc68c24ef3bf3840cf83bd470ecfcff3
+SHA256: e290c35f9624b5e4718a0c4646aff3d80a3839a5b654515704ced5d7e05e6803
+Section: 插件
+Description: 修复越狱后Cydia等各种软件无法联网的问题
+Author: Tinyapps
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: 连个锤子「联网一键修复」
+Sponsor: 幺筒源<409774743@qq.com>
+
+Package: cn.yttxcs.shuffle
+Version: 1.6.0
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子 <409774743@qq.com>
+Depends: com.creaturecoding.libcspreferences
+Conflicts: com.cpdigitaldarkroom.placeholder
+Replaces: com.cpdigitaldarkroom.placeholder
+Filename: ./debs/cn.yttxcs.shuffle_1.6.0_iphoneos-arm.deb
+Size: 332420
+MD5sum: c6f9218840ad6c436770d5ccbebbda2f
+SHA1: af1cb17c0e3bb21c571d5ceefffab617347d661f
+SHA256: 64e04d310453e04d6187ef9d2620a44bd026f581f4fe057495665533e34283de
+Section: 插件
+Description: 对设置里面的标题分类.以及增加自定义头部照片
+Author: CreatureSurvive
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: shuffle「设置分类」
+Sponsor: 幺筒源<409774743@qq.com>
+
+Package: cn.yttxcs.storeswitcher2
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子 <409774743@qq.com>
+Installed-Size: 14
+Depends: firmware (>= 11), mobilesubstrate
+Filename: ./debs/cn.yttxcs.storeswitcher2_1.0.3_iphoneos-arm.deb
+Size: 45972
+MD5sum: 4b202d15fdbd5d7b13ba318f71b0a285
+SHA1: d63c43fc48df4d4fad3128f721c828aa43bb84d3
+SHA256: 7f44c3f9043ccc6498c273dc85613b2e0b8d0ea6fad7806db53b2b4a4b5c5cf5
+Section: 插件
+Description: App Store 快速切换
+Author: subdiox <409774743@qq.com>
+Icon: https://yttxcs.com/image/icon/cn.yttxcs.storeswitcher2.png
+Name: StoreSwitcher 2「快速切换
+Sponsor: 幺筒源<409774743@qq.com>
+
+Package: cn.yttxcs.switchconfirm
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子 <409774743@qq.com>
+Installed-Size: 453
+Depends: mobilesubstrate,preferenceloader,com.spark.libsparkapplist
+Filename: ./debs/cn.yttxcs.switchconfirm_1.1_iphoneos-arm.deb
+Size: 38446
+MD5sum: 0345b756a5c1a59631e11c04de65b00b
+SHA1: b2c994037876a8d50db0f50eada8fa310c568961
+SHA256: 4ee926a347a1cb96bf3295f2721ec70a3d49cda60017852a2fdba7573fcf3d4d
+Section: 插件
+Description: 确认后再切换应用！
+Author: P2KDev  <409774743@qq.com>
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: SwitchConfirm「阻止应用重定向」
+Sponsor: 幺筒源<409774743@qq.com>
+
+Package: cn.yttxcs.u0smscompletefix
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 他是个疯子 <409774743@qq.com>
+Installed-Size: 331
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/cn.yttxcs.u0smscompletefix_1.0.1_iphoneos-arm.deb
+Size: 5946
+MD5sum: 30b6c958e1f6129893d6af25887d81fb
+SHA1: ed22f18ebdf366cbb5c0b896a4c2dbbe8dff9b7b
+SHA256: d5f6aa6926e745e9d943f8798ef030c4c9e7930ead2cf663af1962cd845cfd79
+Section: 插件
+Description: 修复Unc0ver越狱短信无法填充问题
+Author: Baw Appie
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: u0SMSCompleteFix「修复短信验证码自动填充」
+Sponsor: 幺筒源<409774743@qq.com>
+
 Package: com.anthopak.pancake
 Version: 2.1
 Architecture: iphoneos-arm
@@ -324,6 +605,23 @@ Description: None
 Author: Sandy0
 Name: PullOver Pro中文包
 
+Package: com.hk.snapper2
+Version: 2.4.3
+Architecture: iphoneos-arm
+Maintainer: Jonathan Winger-lang
+Installed-Size: 1236
+Depends: mobilesubstrate, firmware (>= 12.1)
+Conflicts: com.jontelang.snapper, com.jontelang.snapper2, com.p2kdev.snapper2cc
+Filename: ./debs/com.hk.snapper2_2.4.3_iphoneos-arm.deb
+Size: 310302
+MD5sum: 4ea26495a0e8ecff24454a97e8f61ecf
+SHA1: 8ef5cc47f4acd477176b77105c9c8b8f3b65d09e
+SHA256: 001a1eb436ca73317c6dca8715e2327cb0cdda99891d468118a13774a31ff018
+Section: 嗨-系统
+Author: Jonathan Winger-lang
+Name: Snapper 2
+Sponsor: Jonathan Winger-lang
+
 Package: com.hk.swipeextenderx.cn
 Version: 1.4.2
 Architecture: iphoneos-arm
@@ -361,6 +659,41 @@ Dev: ichitaso
 Icon: file:///Library/ControlCenter/Bundles/LocationService.bundle/SettingsIcon@2x.png
 Name: LocationService (CCSupport)
 
+Package: com.julioverne.cydown
+Version: 7.1.2
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: coreutils-bin, coreutils, mobilesubstrate, preferenceloader
+Filename: ./debs/com.julioverne.cydown_7.1.2_iphoneos-arm.deb
+Size: 4361022
+MD5sum: 2aa7b47978971c7285944d5a1ddea2f1
+SHA1: 2722f6b0af88de9e752238ddaf689be7a61a8408
+SHA256: 0b11a85f9a06848c89b32bdb220925a7aa2e38ee7a6b6e46e7440a1d94825dd2
+Section: Tweaks
+Homepage: https://twitter.com/ijulioverne
+Description: Cydia Download Manager & Extra Features!
+Author: julioverne
+Depiction: https://julio.hackyouriphone.org/description.html?id=com.julioverne.cydown
+Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
+Name: CyDown
+
+Package: com.julioverne.spotilife
+Version: 1.7a
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate
+Filename: ./debs/com.julioverne.spotilife_1.7a_iphoneos-arm.deb
+Size: 193418
+MD5sum: eaf0774191e6bfbc34ca93a9d9448e0a
+SHA1: b3ed7d0f16019be06a2ccdaf7bd49781ae0c1c93
+SHA256: 0f8f11f3062a27e348237246cc0c0194e455b58094c70167941792dad8ec5c61
+Section: Tweaks
+Homepage: https://twitter.com/ijulioverne
+Description: Spotify Unlimited Skips, Remove ADs, Extreme Quality Stream Unlocked... Requires Spotify App (AppStore)
+Author: julioverne
+Depiction: https://julio.hackyouriphone.org/description.html?id=com.julioverne.spotilife
+Name: Spotilife
+
 Package: com.lenglengyu.proknockout
 Version: 0.0.2
 Architecture: iphoneos-arm
@@ -395,6 +728,24 @@ Description: 解锁高级版权限。
 Author: lenglengyu
 Depiction: None
 Name: Slidebox Pro
+
+Package: com.michael.selector
+Version: 0.1.2
+Architecture: iphoneos-arm
+Maintainer: halo_michael <yc992147156@me.com>
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
+Conflicts: me.nepeta.selector
+Replaces: me.nepeta.selector
+Provides: me.nepeta.selector
+Filename: ./debs/com.michael.selector_0.1.2_iphoneos-arm.deb
+Size: 57370
+MD5sum: 7bcb484916b5fcf446b80d469ee67a0f
+SHA1: 373c7d3c9ebf8c7d2d6b3dc4a06a30088677d309
+SHA256: d6935fdd938fc0e490dfc19347d890b753b68ede879a561301d31a1529b5817e
+Section: Tweaks
+Description: 选择文本以翻译或搜索
+Author: Nepeta
+Name: Selector(简体中文)
 
 Package: com.noisyflake.networkmanager
 Version: 1.0.2
@@ -691,6 +1042,24 @@ Depends: mobilesubstrate, firmware (>= 12.2) | org.swift.libswift (>= 5.0), firm
 Suggests: com.rpetrich.rocketbootstrap
 Conflicts: flexpackage, flexpackagebeta, com.fuyuchi.flex, flex2packagebeta, flex2package, com.fuyuchi.flex2, flex2blackpackagebeta, com.johncoates.flex3, flex3featurecatalog, flex3toolsonly
 Replaces: flexpackage, flexpackagebeta, com.fuyuchi.flex, flex2packagebeta, flex2package, com.fuyuchi.flex2, flex2blackpackagebeta, com.johncoates.flex3, flex3featurecatalog, flex3toolsonly
+Filename: ./debs/flex3beta_1%3a3~Beta98_iphoneos-arm.deb
+Size: 5523200
+MD5sum: 6f4e4c4f2b6d6ede7f9391a540bcdb32
+SHA1: 5688b049d262589e1f76c3a34e4a7d4892b212a9
+SHA256: 0c9239141a5122dddc13680527b852d71c0cb2602071e2221a398e3a61f09119
+Section: Tools
+Description: Develop your own tweaks and share them on the Flex Community Cloud
+Author: John Coates
+Name: Flex 3 Beta
+
+Package: flex3beta
+Version: 1:3~Beta98
+Architecture: iphoneos-arm
+Maintainer: John Coates
+Depends: mobilesubstrate, firmware (>= 12.2) | org.swift.libswift (>= 5.0), firmware (>= 9.0)
+Suggests: com.rpetrich.rocketbootstrap
+Conflicts: flexpackage, flexpackagebeta, com.fuyuchi.flex, flex2packagebeta, flex2package, com.fuyuchi.flex2, flex2blackpackagebeta, com.johncoates.flex3, flex3featurecatalog, flex3toolsonly
+Replaces: flexpackage, flexpackagebeta, com.fuyuchi.flex, flex2packagebeta, flex2package, com.fuyuchi.flex2, flex2blackpackagebeta, com.johncoates.flex3, flex3featurecatalog, flex3toolsonly
 Filename: ./debs/flex3beta_1_3~Beta98_iphoneos-arm.deb
 Size: 5523200
 MD5sum: 6f4e4c4f2b6d6ede7f9391a540bcdb32
@@ -719,6 +1088,28 @@ Depiction: https://repo.litten.love/depictions/BatteryBuddy/index.html
 Icon: https://repo.litten.love/depictions/BatteryBuddy/assets/icon.png
 Name: BatteryBuddy ⚡️
 Sileodepiction: https://repo.litten.love/depictions/BatteryBuddy/index.json
+
+Package: me.lochook.app
+Version: 3.2.0
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 554
+Depends: mobilesubstrate, preferenceloader, applist
+Filename: ./debs/me.lochook.app_3.2.0_iphoneos-arm.deb
+Size: 83232
+MD5sum: 26cc7887f99ba97952289b0310e57860
+SHA1: 6db80a48dd216f8c948de9f988483149d822948c
+SHA256: c251a55d60cb58d00331164fd03561d186c212bac77e52fdb665e58d9b67c14c
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=locationsetDp
+Description: 免费的虚拟定位，实现让您的iPhone在任意地点穿越。
+Tag: purpose::extension
+Author: 小哥哥 <zhulongfei28@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=locationsetDp
+Dev: zhulongfei28
+Icon: file:///Library/PreferenceBundles/LocSet.bundle/location.png
+Name: 定个位-专业的位置修改软件
+Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: net.tateu.debkeeper12
 Version: 1.0.7
@@ -1076,21 +1467,23 @@ Name: AlwaysLowPower
 Package: netskao.antiprofilesrevoke
 Version: 1.1-1
 Architecture: iphoneos-arm
-Maintainer: Nets
-Installed-Size: 104
-Depends: firmware (>= 11.0), mobilesubstrate
-Conflicts: netskao.antirevoke
-Replaces: netskao.antirevoke
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 109
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/netskao.antiprofilesrevoke_1.1-1_iphoneos-arm.deb
-Size: 5106
-MD5sum: ad039f7b2ff7e5ef9c85ab34c28ca26f
-SHA1: 330eba336749ebaa80424ac4042454104d9e8277
-SHA256: 9fe54348fb3a97429cfaf00ea6f51c059b5c070799c9cf2c44d11200d1aef7e8
-Section: Netskao-Tweaks
-Homepage: https://github.com/Netskao/AntiProfilesRevoke
-Description: 越狱状态下忽略企业证书状态验证，使已经掉证书的应用依旧可以正常打开，支持iOS11-iOS14。该插件已开源，点击更多信息即可查看
-Author: Netskao
+Size: 5150
+MD5sum: ed68c3ce95ff5770eea54319a2f0f017
+SHA1: c846627aa28e7f1b3c05bfee8971d970a4a80d62
+SHA256: a20cff4efacf025a547234934c4fc07e6dd1620391750bc93587955888bf7f02
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=antiprofilesrevokeDp
+Description: 越狱状态下忽略企业证书状态验证，使已经掉证书的应用依旧可以正常打开，支持iOS11-iOS14
+Tag: purpose::extension
+Author: Netskao <admin@initnil.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=antiprofilesrevokeDp
+Dev: netskao
 Name: AntiProfilesRevoke
+Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: netskao.antirevoke
 Version: 2.0-1
