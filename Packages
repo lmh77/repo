@@ -380,6 +380,22 @@ Description: None
 Author: sharman
 Name: Dock X中文包
 
+Package: com.ejiaogl.tuboshuhook
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: 土拨鼠
+Installed-Size: 316
+Depends: mobilesubstrate
+Filename: ./debs/土拨鼠综合助手.deb
+Size: 17872
+MD5sum: 37f905c5ce0b496787cb682b046aac44
+SHA1: 58b21f929de2ddffdb36df19f1f706174d976802
+SHA256: f08f785477b841f51036399d742ed1d2319a9fdddd955b6c00093c83d94789cc
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: 土拨鼠
+Name: 土拨鼠个人插件
+
 Package: com.evanios.ipadwitcher
 Version: 1.2-2
 Architecture: iphoneos-arm
@@ -799,6 +815,22 @@ Author: P2KDev <p2kdev@gmail.com>
 Icon: file:///Library/Application Support/Snapper2CC/icon.png
 Name: Snapper2 CC Toggle
 
+Package: com.paigu.vfa
+Version: 1.0.2-2
+Architecture: iphoneos-arm
+Maintainer: 糖醋丶炒排骨
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.paigu.vfa_1.0.2-2_iphoneos-arm.deb
+Size: 3030
+MD5sum: cb926bb87b6090670764b32795465dda
+SHA1: 6dd237aa6a8424119e595305c98cbcd1c20ce6e2
+SHA256: 1db73cb206fa366f48b81a7c6fb943ab863ba66a0ce3515cbc5410377c670d1f
+Section: Tweaks
+Description: (尝试修复仍有广告的问题）去掉微信公众号文章内置、底部的广告
+Author: 糖醋丶炒排骨
+Name: 微信公众号去广告
+
 Package: com.photosnoforyou
 Version: 0.0.3
 Architecture: iphoneos-arm
@@ -933,6 +965,25 @@ Description: Prevent your device from Auto-Locking when in low power mode
 Author: Spark
 Name: 禁用省电模式自动关屏
 
+Package: com.spark.snowboard
+Version: 1.5.1~Beta1
+Architecture: iphoneos-arm
+Maintainer: Spark
+Installed-Size: 5108
+Depends: mobilesubstrate, preferenceloader
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Filename: ./debs/Snowboard1.5.1~Beta1.deb
+Size: 1600416
+MD5sum: 63829b6cb64204bf7954f70cdcd578de
+SHA1: ceb456f0a5a563584820c8ab81663c0228f2d002
+SHA256: 18a4c5b43db3caa1c4a380fc795afa1fd0d4907a671ed4c5fbdbc34eb4eb33a0
+Section: Tweaks
+Description: Snowboard theming engine
+Author: Spark & Dennis D. Bednarz
+Name: SnowBoard
+
 Package: com.tigisoftware.filza64bit
 Version: 3.9.0-2
 Architecture: iphoneos-arm
@@ -1034,6 +1085,22 @@ Depiction: https://repo.lenglengyu.top/packageInfo/videoadsspeed.html
 Name: VideoAdsSpeed
 Sileodepiction: https://repo.lenglengyu.top/packageInfo/adsspeesileo
 
+Package: com.zachary7829.hidemyvpn
+Version: 1.0.0-1+debug
+Architecture: iphoneos-arm
+Maintainer: zachary7829
+Installed-Size: 216
+Depends: mobilesubstrate
+Filename: ./debs/com.zachary7829.hidemyvpn_1.0.0-1+debug_iphoneos-arm.deb
+Size: 4432
+MD5sum: 3f14dd10ecbd2c6b673ff14eb2387fcc
+SHA1: 3c51fc7e354dcc091c8db748b818cb5445edc528
+SHA256: b054f2e49a4fc38192c4f8a5e332b98c1e86e739e4ff57865d039a4a08d4fa11
+Section: Tweaks
+Description: Don't show VPN in Status Bar
+Author: zachary7829
+Name: HideMyVPN
+
 Package: flex3beta
 Version: 1:3~Beta98
 Architecture: iphoneos-arm
@@ -1042,7 +1109,7 @@ Depends: mobilesubstrate, firmware (>= 12.2) | org.swift.libswift (>= 5.0), firm
 Suggests: com.rpetrich.rocketbootstrap
 Conflicts: flexpackage, flexpackagebeta, com.fuyuchi.flex, flex2packagebeta, flex2package, com.fuyuchi.flex2, flex2blackpackagebeta, com.johncoates.flex3, flex3featurecatalog, flex3toolsonly
 Replaces: flexpackage, flexpackagebeta, com.fuyuchi.flex, flex2packagebeta, flex2package, com.fuyuchi.flex2, flex2blackpackagebeta, com.johncoates.flex3, flex3featurecatalog, flex3toolsonly
-Filename: ./debs/flex3beta_1%3a3~Beta98_iphoneos-arm.deb
+Filename: ./debs/flex3beta_1_3~Beta98_iphoneos-arm.deb
 Size: 5523200
 MD5sum: 6f4e4c4f2b6d6ede7f9391a540bcdb32
 SHA1: 5688b049d262589e1f76c3a34e4a7d4892b212a9
@@ -1060,7 +1127,7 @@ Depends: mobilesubstrate, firmware (>= 12.2) | org.swift.libswift (>= 5.0), firm
 Suggests: com.rpetrich.rocketbootstrap
 Conflicts: flexpackage, flexpackagebeta, com.fuyuchi.flex, flex2packagebeta, flex2package, com.fuyuchi.flex2, flex2blackpackagebeta, com.johncoates.flex3, flex3featurecatalog, flex3toolsonly
 Replaces: flexpackage, flexpackagebeta, com.fuyuchi.flex, flex2packagebeta, flex2package, com.fuyuchi.flex2, flex2blackpackagebeta, com.johncoates.flex3, flex3featurecatalog, flex3toolsonly
-Filename: ./debs/flex3beta_1_3~Beta98_iphoneos-arm.deb
+Filename: ./debs/flex3beta_1%3a3~Beta98_iphoneos-arm.deb
 Size: 5523200
 MD5sum: 6f4e4c4f2b6d6ede7f9391a540bcdb32
 SHA1: 5688b049d262589e1f76c3a34e4a7d4892b212a9
@@ -1135,12 +1202,12 @@ Architecture: iphoneos-arm
 Maintainer: Nets
 Installed-Size: 320
 Depends: firmware (>= 9.0), mobilesubstrate
-Filename: ./debs/netskao.12306noads_1.1-1_iphoneos-arm.deb
-Size: 76874
-MD5sum: 1aa2091a2feb603cd9fc02fe1a3cf767
-SHA1: f455491dc85fecb5c8c473832a1b41008affd3de
-SHA256: ac069e397b85f8e61dcc82e98a2b16cd016bb87c0d812d187c074a7d3cde514c
-Section: Netskao-NoAds
+Filename: ./debs/netskao.12306noads_1.deb
+Size: 77096
+MD5sum: 9cbf43f651024adf153f50a62dcf37f9
+SHA1: aae628f5c538292eaeffa55540ccc17c7c0e5bf7
+SHA256: 1be382629a66dbabcf690af7c94cec48a1ab79bfdd8847c942063b16f2418d55
+Section: NoAds
 Description: 12306去除启动广告等，去除底部出行服务选项
 Author: Netskao
 Name: 12306 NoAds
@@ -1151,12 +1218,12 @@ Architecture: iphoneos-arm
 Maintainer: Nets
 Installed-Size: 320
 Depends: firmware (>= 9.0), mobilesubstrate
-Filename: ./debs/netskao.12306noads_1.deb
-Size: 77096
-MD5sum: 9cbf43f651024adf153f50a62dcf37f9
-SHA1: aae628f5c538292eaeffa55540ccc17c7c0e5bf7
-SHA256: 1be382629a66dbabcf690af7c94cec48a1ab79bfdd8847c942063b16f2418d55
-Section: NoAds
+Filename: ./debs/netskao.12306noads_1.1-1_iphoneos-arm.deb
+Size: 76874
+MD5sum: 1aa2091a2feb603cd9fc02fe1a3cf767
+SHA1: f455491dc85fecb5c8c473832a1b41008affd3de
+SHA256: ac069e397b85f8e61dcc82e98a2b16cd016bb87c0d812d187c074a7d3cde514c
+Section: Netskao-NoAds
 Description: 12306去除启动广告等，去除底部出行服务选项
 Author: Netskao
 Name: 12306 NoAds
@@ -1320,13 +1387,13 @@ Architecture: iphoneos-arm
 Maintainer: Nets
 Installed-Size: 356
 Depends: firmware (>= 9.0), mobilesubstrate
-Filename: ./debs/#U652f#U4ed8#U5b9d NoAds_1.1-3.deb
-Size: 79112
-MD5sum: c987ed04a281b6605869005d4bf9ed86
-SHA1: 7d86c4bea3fdeac0fa171eab4a96d0b8e313286f
-SHA256: c5b6da41b3e29c18a844b8c62b9d37c02a9b4a4bb7aa97fc85aaa9a72de94817
-Section: NoAds
-Description: 旧版本支付宝去广告
+Filename: ./debs/netskao.alipaynoads_1.1-3_iphoneos-arm.deb
+Size: 79336
+MD5sum: 687f17530f865cd5faad3bebdb4e0ec3
+SHA1: 945a86d76d0a7f063a618244d85d6ffff5494ce1
+SHA256: cff0d4160a8b5d62197de9ebeef37720b5fd0a8e31ab058864b53be666311d19
+Section: Netskao-NoAds
+Description: 支付宝去除首页推荐，去除底部理财和口碑选项和红点等，理财是不可能理财的，只有收收钱勉强维持生活，增加消息页面摇一摇一键已读消息
 Author: Netskao
 Name: 支付宝 NoAds
 
@@ -1336,13 +1403,13 @@ Architecture: iphoneos-arm
 Maintainer: Nets
 Installed-Size: 356
 Depends: firmware (>= 9.0), mobilesubstrate
-Filename: ./debs/netskao.alipaynoads_1.1-3_iphoneos-arm.deb
-Size: 79336
-MD5sum: 687f17530f865cd5faad3bebdb4e0ec3
-SHA1: 945a86d76d0a7f063a618244d85d6ffff5494ce1
-SHA256: cff0d4160a8b5d62197de9ebeef37720b5fd0a8e31ab058864b53be666311d19
-Section: Netskao-NoAds
-Description: 支付宝去除首页推荐，去除底部理财和口碑选项和红点等，理财是不可能理财的，只有收收钱勉强维持生活，增加消息页面摇一摇一键已读消息
+Filename: ./debs/#U652f#U4ed8#U5b9d NoAds_1.1-3.deb
+Size: 79112
+MD5sum: c987ed04a281b6605869005d4bf9ed86
+SHA1: 7d86c4bea3fdeac0fa171eab4a96d0b8e313286f
+SHA256: c5b6da41b3e29c18a844b8c62b9d37c02a9b4a4bb7aa97fc85aaa9a72de94817
+Section: NoAds
+Description: 旧版本支付宝去广告
 Author: Netskao
 Name: 支付宝 NoAds
 
@@ -1573,23 +1640,6 @@ Architecture: iphoneos-arm
 Maintainer: Nets
 Installed-Size: 172
 Depends: firmware (>= 11.0), mobilesubstrate, com.cokepokes.appstoreplusplus (>> 0.9.14-2)
-Filename: ./debs/appstore++#U6c49#U5316_1.1-9.deb
-Size: 39768
-MD5sum: a05fe34e0865195d74c44a6cc8a88862
-SHA1: db250f3f1a5fe6e0a7c75204f82bf2414ac60f85
-SHA256: 176970d2c5c9164f5ef08db7d8ba665c66f3ab812f7153716d789211e5e001a8
-Section: zh_CN
-Homepage: https://cokepokes.github.io/
-Description: AppStore++简体中文汉化包，修改版本ID降级查询页面为中国区(原始为美国区)，去除0.9.14-2之后版本长按降级时弹出的广告，主程序官方源https://cokepokes.github.io/
-Author: Netskao
-Name: AppStore++zh_CN
-
-Package: netskao.appstore++zhcn
-Version: 1.1-9
-Architecture: iphoneos-arm
-Maintainer: Nets
-Installed-Size: 172
-Depends: firmware (>= 11.0), mobilesubstrate, com.cokepokes.appstoreplusplus (>> 0.9.14-2)
 Filename: ./debs/netskao.appstore  zhcn_1.1-9_iphoneos-arm.deb
 Size: 52084
 MD5sum: 3d1a3a9ea7872bc4c2f28d971e33f2ec
@@ -1613,6 +1663,23 @@ MD5sum: 6cae84d8619c85ea0daefa946e29c527
 SHA1: e30c911b8df209bfef67a4c9fa9d68c2663b4ab1
 SHA256: 6c7856d3bc8ecc761665cc5d833679aa73363ef3e631dc535238de2f1922cae0
 Section: Netskao-Tweaks
+Homepage: https://cokepokes.github.io/
+Description: AppStore++简体中文汉化包，修改版本ID降级查询页面为中国区(原始为美国区)，去除0.9.14-2之后版本长按降级时弹出的广告，主程序官方源https://cokepokes.github.io/
+Author: Netskao
+Name: AppStore++zh_CN
+
+Package: netskao.appstore++zhcn
+Version: 1.1-9
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 172
+Depends: firmware (>= 11.0), mobilesubstrate, com.cokepokes.appstoreplusplus (>> 0.9.14-2)
+Filename: ./debs/appstore++#U6c49#U5316_1.1-9.deb
+Size: 39768
+MD5sum: a05fe34e0865195d74c44a6cc8a88862
+SHA1: db250f3f1a5fe6e0a7c75204f82bf2414ac60f85
+SHA256: 176970d2c5c9164f5ef08db7d8ba665c66f3ab812f7153716d789211e5e001a8
+Section: zh_CN
 Homepage: https://cokepokes.github.io/
 Description: AppStore++简体中文汉化包，修改版本ID降级查询页面为中国区(原始为美国区)，去除0.9.14-2之后版本长按降级时弹出的广告，主程序官方源https://cokepokes.github.io/
 Author: Netskao
@@ -1851,12 +1918,12 @@ Architecture: iphoneos-arm
 Maintainer: Nets
 Installed-Size: 368
 Depends: firmware (>= 13.0), mobilesubstrate
-Filename: ./debs/netskao.batterypercent13_1.0-1_iphoneos-arm.deb
-Size: 66376
-MD5sum: e866a4fea6be8db3d03de306d72c26e0
-SHA1: e4a120d35356c44350e49cb6196e26cf1249fc65
-SHA256: 4d353dc42473382dfc186124da2e6cb77891c6f5dc6904c669a2cd9114fc1682
-Section: Netskao-Tweaks
+Filename: ./debs/netskao.batterypercent13_1.deb
+Size: 62388
+MD5sum: 7c52fdce21222384db2bfb681b24f620
+SHA1: e26e226eb24a281bda16f7f42d7511da7e83491d
+SHA256: c38eb75e7d3c3d6c4227d2360f173ee55ad3b87ad93e3fdebce6be9fb542c9c2
+Section: Tweaks
 Description: 为iOS13状态栏开启电池百分比，支持普通样式和刘海样式状态栏，具体看预览图
 Author: Netskao
 Name: BatteryPercent13
@@ -1867,12 +1934,12 @@ Architecture: iphoneos-arm
 Maintainer: Nets
 Installed-Size: 368
 Depends: firmware (>= 13.0), mobilesubstrate
-Filename: ./debs/netskao.batterypercent13_1.deb
-Size: 62388
-MD5sum: 7c52fdce21222384db2bfb681b24f620
-SHA1: e26e226eb24a281bda16f7f42d7511da7e83491d
-SHA256: c38eb75e7d3c3d6c4227d2360f173ee55ad3b87ad93e3fdebce6be9fb542c9c2
-Section: Tweaks
+Filename: ./debs/netskao.batterypercent13_1.0-1_iphoneos-arm.deb
+Size: 66376
+MD5sum: e866a4fea6be8db3d03de306d72c26e0
+SHA1: e4a120d35356c44350e49cb6196e26cf1249fc65
+SHA256: 4d353dc42473382dfc186124da2e6cb77891c6f5dc6904c669a2cd9114fc1682
+Section: Netskao-Tweaks
 Description: 为iOS13状态栏开启电池百分比，支持普通样式和刘海样式状态栏，具体看预览图
 Author: Netskao
 Name: BatteryPercent13
@@ -2215,23 +2282,6 @@ Architecture: iphoneos-arm
 Maintainer: Nets
 Installed-Size: 212
 Depends: mobilesubstrate
-Filename: ./debs/netskao.cpu-xcrack_1.0-1_iphoneos-arm.deb
-Size: 44264
-MD5sum: 048670a18dbfe2cf211077b02682f80c
-SHA1: 5f52de1ca8914270da08111c5efbdfbd37530c17
-SHA256: cd1c651fb1ee593130d6ee9e762ae9ad22ae5ca0ab7e491511fd59b4bf2d9857
-Section: Netskao-增强
-Homepage: https1://apps.apple.com/cn/app/cpu-x-dasher-z-battery-life-%E8%B7%91%E5%88%86/id1359763765
-Description: CPU-x解锁全功能，点击“更多信息”跳转下载
-Author: 7Loopy
-Name: CPU-x Crack
-
-Package: netskao.cpu-xcrack
-Version: 1.0-1
-Architecture: iphoneos-arm
-Maintainer: Nets
-Installed-Size: 212
-Depends: mobilesubstrate
 Filename: ./debs/netskao.cpu-xcrack_1.deb
 Size: 44296
 MD5sum: 654bcec3d404bc7d4e0d151b72cdfa1b
@@ -2243,22 +2293,22 @@ Description: CPU-x解锁全功能，点击“更多信息”跳转下载
 Author: 7Loopy
 Name: CPU-x Crack
 
-Package: netskao.cpudashercrack
+Package: netskao.cpu-xcrack
 Version: 1.0-1
 Architecture: iphoneos-arm
 Maintainer: Nets
 Installed-Size: 212
 Depends: mobilesubstrate
-Filename: ./debs/netskao.cpudashercrack_1.0-1_iphoneos-arm.deb
-Size: 44236
-MD5sum: afa778151a9d2af68603797cd19d34a2
-SHA1: be691fff28784ce0d6fd815c392b2544f11c658b
-SHA256: b0472864a134b54a5b042adf13596609620f0d26cdaf9424e328262aea5d2941
+Filename: ./debs/netskao.cpu-xcrack_1.0-1_iphoneos-arm.deb
+Size: 44264
+MD5sum: 048670a18dbfe2cf211077b02682f80c
+SHA1: 5f52de1ca8914270da08111c5efbdfbd37530c17
+SHA256: cd1c651fb1ee593130d6ee9e762ae9ad22ae5ca0ab7e491511fd59b4bf2d9857
 Section: Netskao-增强
-Homepage: https://apps.apple.com/cn/app/cpu-dasher-%E6%89%8B%E6%9C%BA%E7%A1%AC%E4%BB%B6%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8%E6%A3%80%E6%B5%8B%E5%8A%A9%E6%89%8B/id1338092370
-Description: CPU Dasher解锁全功能，点击“更多信息”跳转下载
+Homepage: https1://apps.apple.com/cn/app/cpu-x-dasher-z-battery-life-%E8%B7%91%E5%88%86/id1359763765
+Description: CPU-x解锁全功能，点击“更多信息”跳转下载
 Author: 7Loopy
-Name: CPU Dasher Crack
+Name: CPU-x Crack
 
 Package: netskao.cpudashercrack
 Version: 1.0-1
@@ -2272,6 +2322,23 @@ MD5sum: d726d9ed6f96f64768c5ef1e956776dd
 SHA1: 611d94295bde9cbdfb01ce1e02a3b97a96b0bc18
 SHA256: 2957a3955b26b8cf5fa31bed982dcb8c49adb8aca1f0560a71b81b6bc8236915
 Section: Cracks
+Homepage: https://apps.apple.com/cn/app/cpu-dasher-%E6%89%8B%E6%9C%BA%E7%A1%AC%E4%BB%B6%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8%E6%A3%80%E6%B5%8B%E5%8A%A9%E6%89%8B/id1338092370
+Description: CPU Dasher解锁全功能，点击“更多信息”跳转下载
+Author: 7Loopy
+Name: CPU Dasher Crack
+
+Package: netskao.cpudashercrack
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 212
+Depends: mobilesubstrate
+Filename: ./debs/netskao.cpudashercrack_1.0-1_iphoneos-arm.deb
+Size: 44236
+MD5sum: afa778151a9d2af68603797cd19d34a2
+SHA1: be691fff28784ce0d6fd815c392b2544f11c658b
+SHA256: b0472864a134b54a5b042adf13596609620f0d26cdaf9424e328262aea5d2941
+Section: Netskao-增强
 Homepage: https://apps.apple.com/cn/app/cpu-dasher-%E6%89%8B%E6%9C%BA%E7%A1%AC%E4%BB%B6%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8%E6%A3%80%E6%B5%8B%E5%8A%A9%E6%89%8B/id1338092370
 Description: CPU Dasher解锁全功能，点击“更多信息”跳转下载
 Author: 7Loopy
@@ -2449,13 +2516,13 @@ Maintainer: Nets
 Installed-Size: 200
 Depends: mobilesubstrate, firmware (>= 8.0)
 Replaces: netskao.nophotoshutter
-Filename: ./debs/#U7981#U7528#U5feb#U95e8#U58f0#U97f3.deb
-Size: 3612
-MD5sum: 91e113513422cee8d921ff0b937b0cb6
-SHA1: e9352e8867de0da81dd8c5c228e38c89c5fad983
-SHA256: 5d9c5ab52c722a71da55bacf3ee8533b86ee750d85b0af42bd179b9868f97d5b
-Section: Tweaks
-Description: 禁用快门声音
+Filename: ./debs/netskao.disableshuttersound_1.1-1_iphoneos-arm.deb
+Size: 3632
+MD5sum: 089bcc9a7aadf78d6b92e1db4b3459e8
+SHA1: c3c07400861b0a755db5479fec390dfed8d2ad80
+SHA256: ffca7ed176c5fdd045b17747fbc247d99d7c63ebf788fea3ffc4d992b6c37481
+Section: Netskao-Tweaks
+Description: 禁用快门声音，以编程方式非脚本
 Author: Netskao
 Name: DisableShutterSound
 
@@ -2466,13 +2533,13 @@ Maintainer: Nets
 Installed-Size: 200
 Depends: mobilesubstrate, firmware (>= 8.0)
 Replaces: netskao.nophotoshutter
-Filename: ./debs/netskao.disableshuttersound_1.1-1_iphoneos-arm.deb
-Size: 3632
-MD5sum: 089bcc9a7aadf78d6b92e1db4b3459e8
-SHA1: c3c07400861b0a755db5479fec390dfed8d2ad80
-SHA256: ffca7ed176c5fdd045b17747fbc247d99d7c63ebf788fea3ffc4d992b6c37481
-Section: Netskao-Tweaks
-Description: 禁用快门声音，以编程方式非脚本
+Filename: ./debs/#U7981#U7528#U5feb#U95e8#U58f0#U97f3.deb
+Size: 3612
+MD5sum: 91e113513422cee8d921ff0b937b0cb6
+SHA1: e9352e8867de0da81dd8c5c228e38c89c5fad983
+SHA256: 5d9c5ab52c722a71da55bacf3ee8533b86ee750d85b0af42bd179b9868f97d5b
+Section: Tweaks
+Description: 禁用快门声音
 Author: Netskao
 Name: DisableShutterSound
 
@@ -2610,12 +2677,12 @@ Architecture: iphoneos-arm
 Maintainer: Nets
 Installed-Size: 104
 Depends: mobilesubstrate
-Filename: ./debs/netskao.dockxzhcn_1.1-2_iphoneos-arm.deb
-Size: 20420
-MD5sum: 46ad84237f1a84aea18d7238249a27b2
-SHA1: 5554c7986d166a926c12492723b499732df76284
-SHA256: 451d944641be169579bb8dd82597b5d48384b37fbc02e8a29d1e30e9f4aaa2f1
-Section: Netskao-Tweaks
+Filename: ./debs/netskao.dockxzhcn_1.deb
+Size: 20512
+MD5sum: 2e56a8f7a03d7d257c99392dd466a966
+SHA1: 6396a126fdd936849660ecf0a3d73fc2dfd9724e
+SHA256: 4ed20b5438da42a73ebf4967f1d1e39ff95ef716446991eaf427058f97847a4a
+Section: zh_CN
 Description: DockX简体中文汉化包
 Author: Netskao
 Name: DockX_zh_CN
@@ -2626,12 +2693,12 @@ Architecture: iphoneos-arm
 Maintainer: Nets
 Installed-Size: 104
 Depends: mobilesubstrate
-Filename: ./debs/netskao.dockxzhcn_1.deb
-Size: 20512
-MD5sum: 2e56a8f7a03d7d257c99392dd466a966
-SHA1: 6396a126fdd936849660ecf0a3d73fc2dfd9724e
-SHA256: 4ed20b5438da42a73ebf4967f1d1e39ff95ef716446991eaf427058f97847a4a
-Section: zh_CN
+Filename: ./debs/netskao.dockxzhcn_1.1-2_iphoneos-arm.deb
+Size: 20420
+MD5sum: 46ad84237f1a84aea18d7238249a27b2
+SHA1: 5554c7986d166a926c12492723b499732df76284
+SHA256: 451d944641be169579bb8dd82597b5d48384b37fbc02e8a29d1e30e9f4aaa2f1
+Section: Netskao-Tweaks
 Description: DockX简体中文汉化包
 Author: Netskao
 Name: DockX_zh_CN
@@ -2723,12 +2790,12 @@ Architecture: iphoneos-arm
 Maintainer: Nets
 Installed-Size: 352
 Depends: firmware (>= 9.0), mobilesubstrate
-Filename: ./debs/netskao.dyzbnoads_1.1-3_iphoneos-arm.deb
-Size: 80058
-MD5sum: 4fdbbc4060db36dd9cab9bc6ecc62cb6
-SHA1: 8a2223f817a38a42bcb43ad855af3f203132df71
-SHA256: 4f39b11229bf6d3481b48fddfd9370547ebacd773c03c941d5cc1f4ce58e1aa9
-Section: Netskao-NoAds
+Filename: ./debs/netskao.dyzbnoads_1.deb
+Size: 80160
+MD5sum: fc25806989090f32021b0384449169ce
+SHA1: 669bd66ef5be4a70f2122ed6555f8819e674730b
+SHA256: fefaf365462abf03576bc54dbff8202333a612c66aeb2cbdc5fe7d926f54d852
+Section: NoAds
 Description: 斗鱼直播去除两层启动广告，去除首页直播信息流中广告，去除直播页面刷礼物动画，去除首页顶部横幅中广告，去除我的页面横幅广告，去除青少年提示等
 Author: Netskao
 Name: 斗鱼直播 NoAds
@@ -2739,12 +2806,12 @@ Architecture: iphoneos-arm
 Maintainer: Nets
 Installed-Size: 352
 Depends: firmware (>= 9.0), mobilesubstrate
-Filename: ./debs/netskao.dyzbnoads_1.deb
-Size: 80160
-MD5sum: fc25806989090f32021b0384449169ce
-SHA1: 669bd66ef5be4a70f2122ed6555f8819e674730b
-SHA256: fefaf365462abf03576bc54dbff8202333a612c66aeb2cbdc5fe7d926f54d852
-Section: NoAds
+Filename: ./debs/netskao.dyzbnoads_1.1-3_iphoneos-arm.deb
+Size: 80058
+MD5sum: 4fdbbc4060db36dd9cab9bc6ecc62cb6
+SHA1: 8a2223f817a38a42bcb43ad855af3f203132df71
+SHA256: 4f39b11229bf6d3481b48fddfd9370547ebacd773c03c941d5cc1f4ce58e1aa9
+Section: Netskao-NoAds
 Description: 斗鱼直播去除两层启动广告，去除首页直播信息流中广告，去除直播页面刷礼物动画，去除首页顶部横幅中广告，去除我的页面横幅广告，去除青少年提示等
 Author: Netskao
 Name: 斗鱼直播 NoAds
@@ -2989,12 +3056,12 @@ Architecture: iphoneos-arm
 Maintainer: Nets
 Installed-Size: 356
 Depends: firmware (>= 9.0), mobilesubstrate
-Filename: ./debs/netskao.fqxsnoads_1.1-8_iphoneos-arm.deb
-Size: 83844
-MD5sum: 186b22481f9618a5dcfb8cd94bec9f93
-SHA1: 53be73c473da2f9791db1e0135d815b195d76449
-SHA256: befa2f38cf1b9f6f8a8712c56e40b69dd53b10c06134e9e9fb6080af3e8464d3
-Section: Netskao-NoAds
+Filename: ./debs/netskao.fqxsnoads_1.deb
+Size: 83872
+MD5sum: 9b9a3f959ba08d60c61380af7dedd29a
+SHA1: 670a6eb6392f4291fe55eba68b02dda0d7ed3188
+SHA256: 6a62e366fe4704d5e77b2c61940003219ed2bae1692311a2a793c1a4b5ba025f
+Section: NoAds
 Description: 番茄小说，番茄畅听。去除启动广告，去除首页插入广告和首页更多推荐，去除我的页面小游戏和小黑屋等，解除书籍缓存限制
 Author: Netskao
 Name: 番茄小说 NoAds
@@ -3005,12 +3072,12 @@ Architecture: iphoneos-arm
 Maintainer: Nets
 Installed-Size: 356
 Depends: firmware (>= 9.0), mobilesubstrate
-Filename: ./debs/netskao.fqxsnoads_1.deb
-Size: 83872
-MD5sum: 9b9a3f959ba08d60c61380af7dedd29a
-SHA1: 670a6eb6392f4291fe55eba68b02dda0d7ed3188
-SHA256: 6a62e366fe4704d5e77b2c61940003219ed2bae1692311a2a793c1a4b5ba025f
-Section: NoAds
+Filename: ./debs/netskao.fqxsnoads_1.1-8_iphoneos-arm.deb
+Size: 83844
+MD5sum: 186b22481f9618a5dcfb8cd94bec9f93
+SHA1: 53be73c473da2f9791db1e0135d815b195d76449
+SHA256: befa2f38cf1b9f6f8a8712c56e40b69dd53b10c06134e9e9fb6080af3e8464d3
+Section: Netskao-NoAds
 Description: 番茄小说，番茄畅听。去除启动广告，去除首页插入广告和首页更多推荐，去除我的页面小游戏和小黑屋等，解除书籍缓存限制
 Author: Netskao
 Name: 番茄小说 NoAds
@@ -4065,12 +4132,12 @@ Architecture: iphoneos-arm
 Maintainer: Nets
 Installed-Size: 356
 Depends: mobilesubstrate
-Filename: ./debs/netskao.myxjcrack_1.1-2_iphoneos-arm.deb
-Size: 83452
-MD5sum: 2fc37ecd318314552858743204e737be
-SHA1: 7fb3c635db39a175ac2c6badeef37d330abec281
-SHA256: 6a355dfbceaef6b43a108662f58bbe43e3037d8287328934a75b341bf1eda996
-Section: Netskao-Cracks
+Filename: ./debs/netskao.myxjcrack_1.deb
+Size: 83640
+MD5sum: fd53787a959b6504591df5d527c14e2e
+SHA1: 698ebd268392b00c7a5314300ca4a8dce241dab2
+SHA256: 817e02f9aff6f25434d5a4923252c30e11163fd95bdf07bf3e0a746cae09b526
+Section: Cracks
 Description: 美颜相机解锁全功能，去除广告
 Author: Netskao
 Name: 美颜相机 Crack
@@ -4081,12 +4148,12 @@ Architecture: iphoneos-arm
 Maintainer: Nets
 Installed-Size: 356
 Depends: mobilesubstrate
-Filename: ./debs/netskao.myxjcrack_1.deb
-Size: 83640
-MD5sum: fd53787a959b6504591df5d527c14e2e
-SHA1: 698ebd268392b00c7a5314300ca4a8dce241dab2
-SHA256: 817e02f9aff6f25434d5a4923252c30e11163fd95bdf07bf3e0a746cae09b526
-Section: Cracks
+Filename: ./debs/netskao.myxjcrack_1.1-2_iphoneos-arm.deb
+Size: 83452
+MD5sum: 2fc37ecd318314552858743204e737be
+SHA1: 7fb3c635db39a175ac2c6badeef37d330abec281
+SHA256: 6a355dfbceaef6b43a108662f58bbe43e3037d8287328934a75b341bf1eda996
+Section: Netskao-Cracks
 Description: 美颜相机解锁全功能，去除广告
 Author: Netskao
 Name: 美颜相机 Crack
@@ -4517,21 +4584,26 @@ Author: 7Loopy
 Name: QQ 抢红包 Crack
 
 Package: netskao.qqpurification
-Version: 1.9-9
+Version: 1.5-6
 Architecture: iphoneos-arm
-Maintainer: Nets
-Installed-Size: 556
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 480
 Depends: mobilesubstrate, firmware (>= 9.0)
-Replaces: netskao.qqpure
-Filename: ./debs/netskao.qqpurification_1.9-9_iphoneos-arm.deb
-Size: 163932
-MD5sum: 643f2e8b79228c0a3fcff62030645520
-SHA1: 9aabc8e7540cf1675b0e471fba4067b0cbb48df7
-SHA256: d9f6c00e572c16b072f97a82c29aab2e90ae1e4dff826afa07e62f135ba86c79
-Section: Netskao-Tweaks
-Description: QQ净化，还原聊天本质，干净的QQ给你，设置位于QQ-设置页面顶部，仅支持8.7.5及以上版本
-Author: Netskao
+Filename: ./debs/qqpurification_1.5-6.deb
+Size: 131572
+MD5sum: 9a4e047b3ae170ba4bc16cafdbb7a8c4
+SHA1: 92b74cfcda53f04906b839e8b64f83a9e722134f
+SHA256: 097109a70c0388006b9eb872f757c7f1d49c38c3d620e0095b189353716889cc
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=qqpurificationDp
+Description: QQ净化，还原聊天本质，干净的QQ给你，设置位于QQ-设置-顶部
+Tag: purpose::extension
+Author: Netskao <netskao@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=qqpurificationDp
+Dev: netskao
+Icon: file:///Library/PreferenceBundles/QQPurificationPrefs.bundle/icon@2x.png
 Name: QQ净化
+Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: netskao.qqpurification
 Version: 1.9-9
@@ -4546,6 +4618,23 @@ MD5sum: f7759c085ffb8baa75e5598b09326f96
 SHA1: 56fc01469586d886aeb23ad51f261c6bbd2f1dab
 SHA256: 8d0e88e27960c816279973331894cf03b0001562d75e90c334ea7bf51859224c
 Section: NoAds
+Description: QQ净化，还原聊天本质，干净的QQ给你，设置位于QQ-设置页面顶部，仅支持8.7.5及以上版本
+Author: Netskao
+Name: QQ净化
+
+Package: netskao.qqpurification
+Version: 1.9-9
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 556
+Depends: mobilesubstrate, firmware (>= 9.0)
+Replaces: netskao.qqpure
+Filename: ./debs/netskao.qqpurification_1.9-9_iphoneos-arm.deb
+Size: 163932
+MD5sum: 643f2e8b79228c0a3fcff62030645520
+SHA1: 9aabc8e7540cf1675b0e471fba4067b0cbb48df7
+SHA256: d9f6c00e572c16b072f97a82c29aab2e90ae1e4dff826afa07e62f135ba86c79
+Section: Netskao-Tweaks
 Description: QQ净化，还原聊天本质，干净的QQ给你，设置位于QQ-设置页面顶部，仅支持8.7.5及以上版本
 Author: Netskao
 Name: QQ净化
@@ -4573,12 +4662,12 @@ Architecture: iphoneos-arm
 Maintainer: Nets
 Installed-Size: 356
 Depends: mobilesubstrate
-Filename: ./debs/netskao.qqyynoads_1.2-1_iphoneos-arm.deb
-Size: 82794
-MD5sum: c43e165a9718014f570f21304e840d3b
-SHA1: 3365785f9fe5ef1daac0536161fba7373bf73dc6
-SHA256: ef92904479e9dcc39564bde2b754eb7f2f1077f25df14e72beffd103232450c2
-Section: Netskao-NoAds
+Filename: ./debs/netskao.qqyynoads_1.deb
+Size: 83012
+MD5sum: 68ac336dea09f1943bb36adabb8d3403
+SHA1: 205a579009b7bbcb9f472440a5d812a8b747fc7d
+SHA256: f777ae0522078fe4d9bae859fef774c70736adf949739c9290ff2cfbff63ea50
+Section: NoAds
 Description: QQ音乐去除启动广告，去除其他广告，去除推荐列表中直播和音乐馆列表中直播，去除首页顶部直播按钮，去除底部电台和扑通按钮等
 Author: Netskao
 Name: QQ音乐 NoAds
@@ -4589,12 +4678,12 @@ Architecture: iphoneos-arm
 Maintainer: Nets
 Installed-Size: 356
 Depends: mobilesubstrate
-Filename: ./debs/netskao.qqyynoads_1.deb
-Size: 83012
-MD5sum: 68ac336dea09f1943bb36adabb8d3403
-SHA1: 205a579009b7bbcb9f472440a5d812a8b747fc7d
-SHA256: f777ae0522078fe4d9bae859fef774c70736adf949739c9290ff2cfbff63ea50
-Section: NoAds
+Filename: ./debs/netskao.qqyynoads_1.2-1_iphoneos-arm.deb
+Size: 82794
+MD5sum: c43e165a9718014f570f21304e840d3b
+SHA1: 3365785f9fe5ef1daac0536161fba7373bf73dc6
+SHA256: ef92904479e9dcc39564bde2b754eb7f2f1077f25df14e72beffd103232450c2
+Section: Netskao-NoAds
 Description: QQ音乐去除启动广告，去除其他广告，去除推荐列表中直播和音乐馆列表中直播，去除首页顶部直播按钮，去除底部电台和扑通按钮等
 Author: Netskao
 Name: QQ音乐 NoAds
@@ -4730,12 +4819,12 @@ Architecture: iphoneos-arm
 Maintainer: Nets
 Installed-Size: 236
 Depends: firmware (>= 9.0), mobilesubstrate
-Filename: ./debs/netskao.rrspnoads_1.2-1_iphoneos-arm.deb
-Size: 58372
-MD5sum: 15b5a19afb0fc1729f2d0440e2af1b5f
-SHA1: a0269c8c0c147eae9bbe1b857342dee99dcb900f
-SHA256: aab6b07fb7d41f4fd468581f8cb8afa29258b975688c34d16767d28167d69baf
-Section: Netskao-NoAds
+Filename: ./debs/netskao.rrspnoads_1.deb
+Size: 58444
+MD5sum: bbbf15057da99d50c9232d66f8f23122
+SHA1: 835d7d473142a37ca42bde7580ea1ab07d8899d7
+SHA256: 935bf710c37472e9cc819b8d64f1deb42dc50a915802142d8562482ff30ee4db
+Section: NoAds
 Homepage: https://apps.apple.com/cn/app/id1571702274
 Description: 人人视频，人人视频极速版去除启动广告，去除首页精彩推荐，去除视频流中广告，去除播放前广告，去除暂停广告，去除播放时插入广告，去除详情页面相关推荐，去除底部快看按钮等
 Author: Netskao
@@ -4747,12 +4836,12 @@ Architecture: iphoneos-arm
 Maintainer: Nets
 Installed-Size: 236
 Depends: firmware (>= 9.0), mobilesubstrate
-Filename: ./debs/netskao.rrspnoads_1.deb
-Size: 58444
-MD5sum: bbbf15057da99d50c9232d66f8f23122
-SHA1: 835d7d473142a37ca42bde7580ea1ab07d8899d7
-SHA256: 935bf710c37472e9cc819b8d64f1deb42dc50a915802142d8562482ff30ee4db
-Section: NoAds
+Filename: ./debs/netskao.rrspnoads_1.2-1_iphoneos-arm.deb
+Size: 58372
+MD5sum: 15b5a19afb0fc1729f2d0440e2af1b5f
+SHA1: a0269c8c0c147eae9bbe1b857342dee99dcb900f
+SHA256: aab6b07fb7d41f4fd468581f8cb8afa29258b975688c34d16767d28167d69baf
+Section: Netskao-NoAds
 Homepage: https://apps.apple.com/cn/app/id1571702274
 Description: 人人视频，人人视频极速版去除启动广告，去除首页精彩推荐，去除视频流中广告，去除播放前广告，去除暂停广告，去除播放时插入广告，去除详情页面相关推荐，去除底部快看按钮等
 Author: Netskao
@@ -5371,12 +5460,12 @@ Maintainer: Nets
 Installed-Size: 496
 Depends: mobilesubstrate
 Replaces: netskao.vuecrack
-Filename: ./debs/netskao.vuepure_1.1-1_iphoneos-arm.deb
-Size: 94594
-MD5sum: 7d997bd6f766be1dba25beac4fc6d394
-SHA1: 6bd2e831da952e114269454a947410aa62313ad0
-SHA256: 4efe4310172881f15676d279443a84dcbc1764c09c3858ab0a4bff1ddadba3f4
-Section: Netskao-Tweaks
+Filename: ./debs/netskao.vuepure_1.deb
+Size: 94652
+MD5sum: 9ae9e32e23de872ce07eefb703cf4845
+SHA1: 6fa58f0290a2b06dd4ba652c5ce1b93f19491679
+SHA256: dd58faf256e7f37fbdc2aeb39b6ddf1890d89b7139c04cf2ef3f27f2cbc9d358
+Section: NoAds
 Description: VUE净化，双击视频保存到相册，去除所有广告，解锁滤镜等
 Author: Netskao
 Name: VUE 净化
@@ -5388,12 +5477,12 @@ Maintainer: Nets
 Installed-Size: 496
 Depends: mobilesubstrate
 Replaces: netskao.vuecrack
-Filename: ./debs/netskao.vuepure_1.deb
-Size: 94652
-MD5sum: 9ae9e32e23de872ce07eefb703cf4845
-SHA1: 6fa58f0290a2b06dd4ba652c5ce1b93f19491679
-SHA256: dd58faf256e7f37fbdc2aeb39b6ddf1890d89b7139c04cf2ef3f27f2cbc9d358
-Section: NoAds
+Filename: ./debs/netskao.vuepure_1.1-1_iphoneos-arm.deb
+Size: 94594
+MD5sum: 7d997bd6f766be1dba25beac4fc6d394
+SHA1: 6bd2e831da952e114269454a947410aa62313ad0
+SHA256: 4efe4310172881f15676d279443a84dcbc1764c09c3858ab0a4bff1ddadba3f4
+Section: Netskao-Tweaks
 Description: VUE净化，双击视频保存到相册，去除所有广告，解锁滤镜等
 Author: Netskao
 Name: VUE 净化
@@ -5643,13 +5732,12 @@ Architecture: iphoneos-arm
 Maintainer: Nets
 Installed-Size: 576
 Depends: mobilesubstrate, com.fqkj.wxmy
-Filename: ./debs/netskao.wxmycrack_1.0-1_iphoneos-arm.deb
-Size: 112262
-MD5sum: d4a163a8f2acbaf38fcd8be6cd4486db
-SHA1: 5051fb1cc8a0a0878f11515024c560293b1e5b89
-SHA256: 9167e9b7862ffc13a608903ad7f4f9c4b268b3612e70cbd192228138c478f427
-Section: Netskao-Cracks
-Homepage: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wxsecretfriendDp
+Filename: ./debs/netskao.wxmycrack_1.deb
+Size: 112232
+MD5sum: 37e5d390d2129ee01c88c097e5290173
+SHA1: e61ab398ded1bd61ebf7dff124f105b8880c807c
+SHA256: 5017216bbf1f532372edda12def5c6f117d22014d4cdaa1b4276df441073a648
+Section: Cracks
 Description: 番茄微信密友破解，支持1.3.7版本，boos源下载即可
 Author: 7Loopy
 Name: 番茄微信密友 Crack
@@ -5660,12 +5748,13 @@ Architecture: iphoneos-arm
 Maintainer: Nets
 Installed-Size: 576
 Depends: mobilesubstrate, com.fqkj.wxmy
-Filename: ./debs/netskao.wxmycrack_1.deb
-Size: 112232
-MD5sum: 37e5d390d2129ee01c88c097e5290173
-SHA1: e61ab398ded1bd61ebf7dff124f105b8880c807c
-SHA256: 5017216bbf1f532372edda12def5c6f117d22014d4cdaa1b4276df441073a648
-Section: Cracks
+Filename: ./debs/netskao.wxmycrack_1.0-1_iphoneos-arm.deb
+Size: 112262
+MD5sum: d4a163a8f2acbaf38fcd8be6cd4486db
+SHA1: 5051fb1cc8a0a0878f11515024c560293b1e5b89
+SHA256: 9167e9b7862ffc13a608903ad7f4f9c4b268b3612e70cbd192228138c478f427
+Section: Netskao-Cracks
+Homepage: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wxsecretfriendDp
 Description: 番茄微信密友破解，支持1.3.7版本，boos源下载即可
 Author: 7Loopy
 Name: 番茄微信密友 Crack
@@ -5807,14 +5896,13 @@ Architecture: iphoneos-arm
 Maintainer: Nets
 Installed-Size: 232
 Depends: mobilesubstrate
-Filename: ./debs/netskao.xjpdfzhqcrack_1.1-1_iphoneos-arm.deb
-Size: 51024
-MD5sum: a841749c9493028a4d269670b0cb66a4
-SHA1: 25518aca3a51177e8e30ed075cd130443845cc3c
-SHA256: 167732d3742c106a75efddeb4c37ffc70822dda165a4ad738f3499ae533f5a12
-Section: Netskao-Cracks
-Homepage: https://apps.apple.com/cn/app/%E8%BF%85%E6%8D%B7pdf%E8%BD%AC%E6%8D%A2%E5%99%A8-pdf%E8%BD%ACword%E6%96%87%E6%A1%A3%E6%89%8B%E6%9C%BA%E7%89%88/id1424760349
-Description: 迅捷PDF转换器解锁全功能，点击“更多信息”即可跳转下载
+Filename: ./debs/netskao.xjpdfzhqcrack_1.deb
+Size: 50828
+MD5sum: 865756ca3f472dd84240b5eb86455b50
+SHA1: 0be844eeff3243e9ec72ae680c2ca48622b502e9
+SHA256: ef1bb651a4b1a9fc22c0554fa48bb9d94031d806a92e79706c8993a6dd100253
+Section: Cracks
+Description: 迅捷PDF转换器解锁全功能
 Author: 7Loopy
 Name: 迅捷PDF转换器 Crack
 
@@ -5824,13 +5912,14 @@ Architecture: iphoneos-arm
 Maintainer: Nets
 Installed-Size: 232
 Depends: mobilesubstrate
-Filename: ./debs/netskao.xjpdfzhqcrack_1.deb
-Size: 50828
-MD5sum: 865756ca3f472dd84240b5eb86455b50
-SHA1: 0be844eeff3243e9ec72ae680c2ca48622b502e9
-SHA256: ef1bb651a4b1a9fc22c0554fa48bb9d94031d806a92e79706c8993a6dd100253
-Section: Cracks
-Description: 迅捷PDF转换器解锁全功能
+Filename: ./debs/netskao.xjpdfzhqcrack_1.1-1_iphoneos-arm.deb
+Size: 51024
+MD5sum: a841749c9493028a4d269670b0cb66a4
+SHA1: 25518aca3a51177e8e30ed075cd130443845cc3c
+SHA256: 167732d3742c106a75efddeb4c37ffc70822dda165a4ad738f3499ae533f5a12
+Section: Netskao-Cracks
+Homepage: https://apps.apple.com/cn/app/%E8%BF%85%E6%8D%B7pdf%E8%BD%AC%E6%8D%A2%E5%99%A8-pdf%E8%BD%ACword%E6%96%87%E6%A1%A3%E6%89%8B%E6%9C%BA%E7%89%88/id1424760349
+Description: 迅捷PDF转换器解锁全功能，点击“更多信息”即可跳转下载
 Author: 7Loopy
 Name: 迅捷PDF转换器 Crack
 
@@ -6059,12 +6148,12 @@ Architecture: iphoneos-arm
 Maintainer: Nets
 Installed-Size: 320
 Depends: firmware (>= 10.0), mobilesubstrate
-Filename: ./debs/netskao.yknoads_1.1-2_iphoneos-arm.deb
-Size: 78498
-MD5sum: fd3c75e8e1f8811eeffc2a1598f26ea0
-SHA1: 7d67617658e98bb3c8205b59bd47dd46e870fad2
-SHA256: 786aa0d0a8f16accf31bef647f81a7b22acb2fb94becd7b39a631064b9ca4fea
-Section: Netskao-NoAds
+Filename: ./debs/netskao.yknoads_1.deb
+Size: 78408
+MD5sum: 9b253b65254b23515d1451aa496a0423
+SHA1: 0d5ad7db71da49dfb8a337681cfbb3b592c5e39a
+SHA256: 7082d66e3bc76fbb57e2bba2c5113949cf1381c493b8bdec13c563c946d5e004
+Section: NoAds
 Description: 优酷去除启动广告，去除播放前广告，去除暂停广告，去除底部小视频和消息选项等
 Author: Netskao
 Name: 优酷 NoAds
@@ -6075,12 +6164,12 @@ Architecture: iphoneos-arm
 Maintainer: Nets
 Installed-Size: 320
 Depends: firmware (>= 10.0), mobilesubstrate
-Filename: ./debs/netskao.yknoads_1.deb
-Size: 78408
-MD5sum: 9b253b65254b23515d1451aa496a0423
-SHA1: 0d5ad7db71da49dfb8a337681cfbb3b592c5e39a
-SHA256: 7082d66e3bc76fbb57e2bba2c5113949cf1381c493b8bdec13c563c946d5e004
-Section: NoAds
+Filename: ./debs/netskao.yknoads_1.1-2_iphoneos-arm.deb
+Size: 78498
+MD5sum: fd3c75e8e1f8811eeffc2a1598f26ea0
+SHA1: 7d67617658e98bb3c8205b59bd47dd46e870fad2
+SHA256: 786aa0d0a8f16accf31bef647f81a7b22acb2fb94becd7b39a631064b9ca4fea
+Section: Netskao-NoAds
 Description: 优酷去除启动广告，去除播放前广告，去除暂停广告，去除底部小视频和消息选项等
 Author: Netskao
 Name: 优酷 NoAds
@@ -6158,12 +6247,12 @@ Architecture: iphoneos-arm
 Maintainer: Nets
 Installed-Size: 356
 Depends: firmware (>= 9.0), mobilesubstrate
-Filename: ./debs/netskao.ysfnoads_1.1-2_iphoneos-arm.deb
-Size: 83492
-MD5sum: 5dcdf073b9d603fc3d695dc74bac7bcb
-SHA1: 476839b8ab093f5ebe2ae614c10b04bbd32e4a42
-SHA256: 8a57cb4763d84cf71a762b57490004d4070ddedd04b994905ccd8ade260dcd67
-Section: Netskao-NoAds
+Filename: ./debs/netskao.ysfnoads_1.deb
+Size: 83548
+MD5sum: 61a33ea991af1a9f060059d44afd3b23
+SHA1: f6af4ebe0cfa5698d86347887527526832a6b926
+SHA256: 766ed8f2a0daa1efcb00a1089cf9676d8412b7be748bb529ef721490ddcb4bc2
+Section: NoAds
 Description: 云闪付去除启动广告，去除首页信息流杂七杂八的版块，去除生活页爆品抢购，去除消息页优惠资讯，去除金融页面杂七杂八版块，去除我的页面合作共赢和精选服务和借款选项等
 Author: Netskao
 Name: 云闪付 NoAds
@@ -6174,12 +6263,12 @@ Architecture: iphoneos-arm
 Maintainer: Nets
 Installed-Size: 356
 Depends: firmware (>= 9.0), mobilesubstrate
-Filename: ./debs/netskao.ysfnoads_1.deb
-Size: 83548
-MD5sum: 61a33ea991af1a9f060059d44afd3b23
-SHA1: f6af4ebe0cfa5698d86347887527526832a6b926
-SHA256: 766ed8f2a0daa1efcb00a1089cf9676d8412b7be748bb529ef721490ddcb4bc2
-Section: NoAds
+Filename: ./debs/netskao.ysfnoads_1.1-2_iphoneos-arm.deb
+Size: 83492
+MD5sum: 5dcdf073b9d603fc3d695dc74bac7bcb
+SHA1: 476839b8ab093f5ebe2ae614c10b04bbd32e4a42
+SHA256: 8a57cb4763d84cf71a762b57490004d4070ddedd04b994905ccd8ade260dcd67
+Section: Netskao-NoAds
 Description: 云闪付去除启动广告，去除首页信息流杂七杂八的版块，去除生活页爆品抢购，去除消息页优惠资讯，去除金融页面杂七杂八版块，去除我的页面合作共赢和精选服务和借款选项等
 Author: Netskao
 Name: 云闪付 NoAds
@@ -6412,6 +6501,23 @@ Architecture: iphoneos-arm
 Maintainer: Geometric Software
 Installed-Size: 444
 Depends: mobilesubstrate, firmware(>=14.0), firmware(<<15), preferenceloader, se.geometric.graphite
+Filename: ./debs/se.geometric.intelligentpass4_1.2_iphoneos-arm.deb
+Size: 89372
+MD5sum: a39d3a718a8dc2f4bf1ff9922cb5d954
+SHA1: 6b2f14221435ab439e252c29edb357f2e78c26a9
+SHA256: 7d2d12a39376f050530279c91c880d14955bf0a9f4a917c1c9c6eccf0647a661
+Section: Tweaks
+Description: None
+Author: Geometric Software
+Depiction: None
+Name: IntelligentPass 4
+
+Package: se.geometric.intelligentpass4
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Geometric Software
+Installed-Size: 444
+Depends: mobilesubstrate, firmware(>=14.0), firmware(<<15), preferenceloader, se.geometric.graphite
 Filename: ./debs/se.geometric.intelligentpass4_1.2.deb
 Size: 89442
 MD5sum: bb8d0527eb843d3e616941ddf0612476
@@ -6426,22 +6532,20 @@ Icon: file:///Library/PreferenceBundles/IntelligentPass.bundle/store.png
 Name: IntelligentPass 4
 Sileodepiction: https://apt.geometricsoftware.se/package/se.geometric.intelligentpass4/depiction
 
-Package: se.geometric.intelligentpass4
-Version: 1.2
+Package: z.fix120hz
+Version: 1.0
 Architecture: iphoneos-arm
-Maintainer: Geometric Software
-Installed-Size: 444
-Depends: mobilesubstrate, firmware(>=14.0), firmware(<<15), preferenceloader, se.geometric.graphite
-Filename: ./debs/se.geometric.intelligentpass4_1.2_iphoneos-arm.deb
-Size: 89372
-MD5sum: a39d3a718a8dc2f4bf1ff9922cb5d954
-SHA1: 6b2f14221435ab439e252c29edb357f2e78c26a9
-SHA256: 7d2d12a39376f050530279c91c880d14955bf0a9f4a917c1c9c6eccf0647a661
+Maintainer: z
+Installed-Size: 136
+Filename: ./debs/z.fix120hz_1.0_iphoneos-arm.deb
+Size: 2928
+MD5sum: bd53f1510ebd9b4522bc12a0647d38e3
+SHA1: 07e14a71d487b15c987ccf47148ab756d02e751c
+SHA256: 9fd083e352c2ab65bc21c8d7af8939f337befabcc51f4bf97b6f2bd16792f10a
 Section: Tweaks
-Description: None
-Author: Geometric Software
-Depiction: None
-Name: IntelligentPass 4
+Description: 尝试修复120hz!
+Author: z
+Name: fix120hz
 
 Package: z.newsysctl
 Version: 3.0
